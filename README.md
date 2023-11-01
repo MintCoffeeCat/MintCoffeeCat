@@ -1,4 +1,4 @@
-## Hey there! I'm Yun - smhhyyz
+## Hey there! I'm MintCoffeeCat
 
 ### 👨🏻‍💻  About Me
 
