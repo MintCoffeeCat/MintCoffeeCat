@@ -18,7 +18,7 @@
 
 ### My Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smhhyyz&theme=blue-green)](https://github.com/runqi-zhao)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MintCoffeeCat&theme=blue-green)](https://github.com/runqi-zhao)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smhhyyz&layout=compact&exclude_repo=zrsaber.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=bule-gree)](https://github.com/runqi-zhao)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MintCoffeeCat&layout=compact&exclude_repo=zrsaber.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=bule-gree)](https://github.com/runqi-zhao)
 
